@@ -2,9 +2,8 @@
 
 # Work Experience
 
-Hi! Here is more about my work experience in detail.
+Hi! Here is a detailed description of my work experience.
 
----
 
 ## **ADL Digital Lab — Ssr Back-End Developer**  
 Colombia | May 2025 – Sept 2025  
