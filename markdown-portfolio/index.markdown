@@ -1,11 +1,11 @@
-## 🧭 Navigation  
 [Home](./index.md) | [About](./about.md) | [Experience](./experience.md) | [Projects](./projects.md) | [Skills](./skills.md) | [Contact](./contact.md)
 
-# Camilo Martínez Rincon  
-**Software Developer | Java • Node.js • AWS • Angular • React**
 ---
 
-Welcome to my portfolio. Here you will find my projects, work experience, skills, and everything I have built during more than 5 years developing enterprise software and cloud solutions.
+# Camilo Martinez Rincon
+**Software Developer | Java • Node.js • AWS • Angular • React**
+
+Hi, and welcome to my portfolio. Here you will find my projects, work experience, skills, and everything I have built during more than 5 years developing enterprise software and cloud solutions.
 
 ---
 
