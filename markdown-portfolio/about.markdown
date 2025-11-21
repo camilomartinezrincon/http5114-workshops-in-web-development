@@ -1,3 +1,5 @@
+[Home](./index.markdown) | [About](./about.markdown) | [Experience](./experience.md) | [Projects](./projects.md) | [Skills](./skills.md)
+
 ![Profile Image](./img/wallpaper-img.png)
 
 # About Me
