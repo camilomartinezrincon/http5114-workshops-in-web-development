@@ -1,4 +1,4 @@
-[Home](./index.markdown) | [About](./about.markdown) | [Work Experience](./work-experience.markdown) | [Projects](./projects.md) | [Skills](./skills.md)
+[Home](./index.markdown) | [About](./about.markdown) | [Work Experience](./work-experience.markdown) | [Projects](./projects.markdown) | [Skills](./skills.md)
 
 ![Profile Image](./img/wallpaper-img.png)
 
