@@ -1,4 +1,4 @@
-[Home](./index.markdown) | [About](./about.markdown) | [Work Experience](./work-experience.markdown) | [Projects](./projects.markdown) | [Skills](./skills.md)
+[Home](./index.markdown) | [About](./about.markdown) | [Work Experience](./work-experience.markdown) | [Projects](./projects.markdown) | [Skills](./skills.markdown)
 
 ---
 
