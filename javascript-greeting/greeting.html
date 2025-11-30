@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>JavaScript - Greeting</title>
+</head>
+<body>
+    <h1>JavaScript - Greeting</h1>
+    <p id="greetingParagraph"></p>
+
+    <script>
+        var greetingElem = document.getElementById("greetingParagraph");
+        var today = new Date();
+        var hour = today.getHours();
+        var day = today.getDay();
+
+        if(day === 1) {
+            greetingElem.innerHTML = "Do you have a case of the Mondays?";
+        } else if (day === 5 && hour > 12) {
+            greetingElem.innerHTML = "It's Almost the weekend!";
+        } else if (hour > 12) {
+            greetingElem.innerHTML = "Have a good day!"; 
+        } else if (day === 6 || day === 0) {
+            greetingElem.innerHTML = "It's the weekend!";
+        } else {
+           greetingElem.innerHTML = "Have a good morning!";
+        }
+
+        console.log("Day: " + day);
+        
+    </script>
+</body>
+</html>
